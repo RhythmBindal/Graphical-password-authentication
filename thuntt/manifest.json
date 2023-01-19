@@ -1,0 +1,11 @@
+{
+    "name": "Graphical password authentication system",
+    "version": "1.0.0",
+    "description": "graphical password input",
+    "manifest_version": 3,
+    "author": "Code Red",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Graphical password authentication system"
+    }
+}
